@@ -131,7 +131,7 @@ function App() {
 <div id="linkedin">
       <a 
   className="linkedin-btn" 
-  href="https://www.linkedin.com/in/bhavisha-bela-1a0b4b1b3/" 
+  href="https://www.linkedin.com/in/bhavisha-bela-892397396" 
   target="_blank"
 >
   Connect with Me on LinkedIn
