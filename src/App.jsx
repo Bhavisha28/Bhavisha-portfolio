@@ -36,11 +36,11 @@ function App() {
 <div id="about">
 
       <h2>About Me</h2>
-
 <p>
-  I am a second-year Information Technology student at LD College of Engineering.
+  I am pursuing a Bachelor of Engineering in Information Technology at LD College of Engineering.
   I am passionate about programming, web development, and building projects using modern technologies.
 </p>
+
 
       <p>📚 College: {college}</p>
 
